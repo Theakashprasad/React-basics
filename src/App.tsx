@@ -14,6 +14,7 @@ import Add from "./components/Add";
 import Edit from "./components/Edit";
 import UseEffect from "./components/UseEffect";
 // import Form from "./components/Form";
+import Cal from "./components/Cal";
 
 function App() {
   // FOR LIST
@@ -125,7 +126,7 @@ function App() {
 
 
     <div>
-       
+       <Cal/>
     </div>
   );
 }
